@@ -12,7 +12,7 @@ numpy
 
 User Customized Variables
 - Pesudopotential database foldpath: "PP_path_custom"
-- Basis sets foldpath: "BS_path_custo"
+- Basis sets foldpath: "BS_path_custom"
 
 > Attention: It is just a wheel and user should check your input files to obtain reasonable computaiton results. And for some special parameters (like `nspin` tag for spin polarization), you should customize these by yourself.
 
